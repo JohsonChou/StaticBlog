@@ -1,0 +1,51 @@
+baseURL = "http://jzhou.org/"
+languageCode = "en-us"
+title = "Johnson Zhou"
+theme = "KeepIt"
+
+paginate = 12
+enableEmoji = true
+enableRobotsTXT = true
+googleAnalytics = ""
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[blackfriday]
+  hrefTargetBlank = true
+  nofollowLinks = true
+  noreferrerLinks = true
+
+[Permalinks]
+ posts = "/:year/:filename/"
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Linkedin"
+    url = "https://linkedin.com/in/johsonchou/"
+    weight = 4
+
+[params]
+    since = 2019
+    author = "Johnson Zhou"               # Author's name
+    subtitle = "Just Another Developer"       # Subtitle
+    cdn_url = "jzhou.org"           # Base CDN URL
+
+    #avatar = "/images/me/avatar.jpg" #comment it to use gravatar
+    #socialShare = true
+
+    description = "Personal Blog for Johnson Zhou"
+    keywords = "Johnson Zhou, 周策, Johnson, Zhou"
+
+    license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+
+[params.gravatar]
+    email = "johsonchou@gmail.com"   #uncomment and insert your email address to use gravatar
+
