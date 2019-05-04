@@ -1,4 +1,32 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Johnson Zhou on Johnson Zhou</title><link>https://jzhou.org/</link><description>Recent content in Johnson Zhou on Johnson Zhou</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2019 21:07:09 -0700</lastBuildDate><atom:link href="/" rel="self" type="application/rss+xml"/><item><title>Hello, World!</title><link>https://jzhou.org/2019/hello-world/</link><pubDate>Fri, 03 May 2019 21:07:09 -0700</pubDate><guid>https://jzhou.org/2019/hello-world/</guid><description>&lt;p&gt;I&amp;rsquo;ve finally decided to spin up another personal blog. Hopefully this one last longer&amp;hellip; It does have the latest tech. It is completely static and served over CloudFront from a S3 bucket (Yes, I still need to pay for it).&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Johnson Zhou on Johnson Zhou</title><link>https://jzhou.org/</link><description>Recent content in Johnson Zhou on Johnson Zhou</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2019 23:46:05 -0700</lastBuildDate><atom:link href="/" rel="self" type="application/rss+xml"/><item><title>My Doggy GPS Tracking Solution</title><link>https://jzhou.org/2019/dog-tracking/</link><pubDate>Fri, 03 May 2019 23:46:05 -0700</pubDate><guid>https://jzhou.org/2019/dog-tracking/</guid><description>&lt;p&gt;Existing dog trackers either don&amp;rsquo;t do real time GPS tracking or calls for an expensive subscription, here are some examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/Whistle-GPS-Tracker-Activity-Monitor/dp/B01N7MWKWY/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Whistle 3&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Real-time tracking with GPS and LTE&lt;/li&gt;
+&lt;li&gt;Device Cost $78.99&lt;/li&gt;
+&lt;li&gt;Monthly $9.99 or $167 for 2 years&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/Findster-Tracker-Free-Monthly-Fees/dp/B07FFCRQHN&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Findster Duo+&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;GPS tracking, only 3 mile range in open field&lt;/li&gt;
+&lt;li&gt;Device Cost $149.99&lt;/li&gt;
+&lt;li&gt;No subscription needed&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/Bartun-Waterproof-Locating-Positioning-Geo-Fence/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Bartun Mini GPS Tracker&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Real-time tracking with GPS and SMS/2G&lt;/li&gt;
+&lt;li&gt;Device Cost $45.99&lt;/li&gt;
+&lt;li&gt;Provide your own SIM Card&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The one that meets my requirements, the &lt;strong&gt;Whistle 3&lt;/strong&gt;, would cost me around $78.99 + $7 per month, which is around &lt;strong&gt;$160&lt;/strong&gt; for the first year. It seems a bit too much. However, I always want to get my dog a tracker, since he has quite a bad rep about bolting. With me working, He has to stay home alone most of the day, any person can accidentally let him out.&lt;/p&gt;
+&lt;p&gt;By chance, I found this: &lt;a href=&#34;https://www.amazon.com/Samsung-SmartThings-SM-V110AZWAATT-Tracker-Tracking&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Samsung SmartThings Tracker&lt;/a&gt;. It has all the feature of the Whistle 3 in terms of tracking, but cost just &lt;strong&gt;$79.99&lt;/strong&gt; for the first year and &lt;strong&gt;$50&lt;/strong&gt; for the subsequent years.
+However, there isn&amp;rsquo;t an existing dog collar mount for it. Using a key ring is also out of question since Samsung managed to make the hole on the tracker very very small:
+&lt;img src=&#34;https://jzhou.org/images/dog_tracker_1_lite.jpg&#34; alt=&#34;&#34; /&gt;
+I initially simply tied it to my dog&amp;rsquo;s collar with a string, but charging it became a problem since it is difficult to remove. No solution is available online so I decided to make one with my 3D printers:
+&lt;img src=&#34;https://jzhou.org/images/dog_tracker_2.jpg&#34; alt=&#34;&#34; /&gt;
+I put a cut out on the side to improve material efficiency while making easier to remove for charging. You don&amp;rsquo;t need support for the cut out since it is diamond shaped. To secure the tracker in place, I took advantage of the curved edges and made the ring hole structure intruding from the side. My dog plays quite rough and hasn&amp;rsquo;t managed to get it out.&lt;/p&gt;
+&lt;p&gt;See it on &lt;a href=&#34;https://www.thingiverse.com/thing:3481587&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Thingiverse&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Hello, World!</title><link>https://jzhou.org/2019/hello-world/</link><pubDate>Fri, 03 May 2019 21:07:09 -0700</pubDate><guid>https://jzhou.org/2019/hello-world/</guid><description>&lt;p&gt;I&amp;rsquo;ve finally decided to spin up another personal blog. Hopefully this one last longer&amp;hellip; It does have the latest tech. It is completely static and served over CloudFront from a S3 bucket (Yes, I still need to pay for it).&lt;/p&gt;
 &lt;p&gt;Since it is a &lt;strong&gt;personal&lt;/strong&gt; blog, and me being me, this blog is gonna be totally random. There is gonna be Code, Photography, Politics, 3D Printer, Hardware&amp;hellip; I mean, &lt;strong&gt;hopefully&lt;/strong&gt; there is gonna be Code, Photography, Politics, 3D Printer, Hardware&amp;hellip; I am lazy &amp;ldquo;turbulent&amp;rdquo;, according to the totally accurate 13 personalities thing, there is some possibility that this could be my last post here. I mean we are talking about me here.
 &lt;br&gt;&lt;/br&gt;
 Peace.&lt;/p&gt;</description></item></channel></rss>
