@@ -1,4 +1,4 @@
-baseURL = "http://jzhou.org/"
+baseURL = "https://jzhou.org/"
 languageCode = "en-us"
 title = "Johnson Zhou"
 theme = "KeepIt"
@@ -36,7 +36,7 @@ googleAnalytics = ""
     since = 2019
     author = "Johnson Zhou"               # Author's name
     subtitle = "Just Another Developer"       # Subtitle
-    cdn_url = "jzhou.org"           # Base CDN URL
+    cdn_url = "https://jzhou.org"           # Base CDN URL
 
     #avatar = "/images/me/avatar.jpg" #comment it to use gravatar
     #socialShare = true
@@ -48,4 +48,3 @@ googleAnalytics = ""
 
 [params.gravatar]
     email = "johsonchou@gmail.com"   #uncomment and insert your email address to use gravatar
-
