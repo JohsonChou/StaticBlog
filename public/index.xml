@@ -1,11 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Johnson Zhou on Johnson Zhou</title>
-    <link>http://jzhou.org/</link>
-    <description>Recent content in Johnson Zhou on Johnson Zhou</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Johnson Zhou on Johnson Zhou</title><link>http://jzhou.org/</link><description>Recent content in Johnson Zhou on Johnson Zhou</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2019 21:07:09 -0700</lastBuildDate><atom:link href="/" rel="self" type="application/rss+xml"/><item><title>Hello, World!</title><link>http://jzhou.org/2019/hello-world/</link><pubDate>Fri, 03 May 2019 21:07:09 -0700</pubDate><guid>http://jzhou.org/2019/hello-world/</guid><description>&lt;p&gt;I&amp;rsquo;ve finally decided to spin up another personal blog. Hopefully this one last longer&amp;hellip; It does have the latest tech. It is completely static and served over CloudFront from a S3 bucket (Yes, I still need to pay for it).&lt;/p&gt;
+&lt;p&gt;Since it is a &lt;strong&gt;personal&lt;/strong&gt; blog, and me being me, this blog is gonna be totally random. There is gonna be Code, Photography, Politics, 3D Printer, Hardware&amp;hellip; I mean, &lt;strong&gt;hopefully&lt;/strong&gt; there is gonna be Code, Photography, Politics, 3D Printer, Hardware&amp;hellip; I am lazy &amp;ldquo;turbulent&amp;rdquo;, according to the totally accurate 13 personalities thing, there is some possibility that this could be my last post here. I mean we are talking about me here.
+&lt;br&gt;&lt;/br&gt;
+Peace.&lt;/p&gt;</description></item></channel></rss>
