@@ -6,7 +6,7 @@ theme = "KeepIt"
 paginate = 12
 enableEmoji = true
 enableRobotsTXT = true
-googleAnalytics = ""
+googleAnalytics = "UA-139566685-1"
 
 [sitemap]
   changefreq = "monthly"
